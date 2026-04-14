@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260414085650S8L9XW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604140856509BQQG0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>DETECTIVES DIGITALES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Aprendemos a buscar, seleccionar y crear información de forma responsable</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Arturo Martín García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En este proyecto el alumnado se convierte en detectives digitales, aprendiendo a buscar, seleccionar y organizar información en internet de forma crítica y responsable. A lo largo de varias sesiones, desarrollan su competencia digital mediante la creación de una infografía como producto final, utilizando herramientas digitales y trabajando de manera autónoma y cooperativa.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776008488567</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnvxlk61-mbr5bpwgh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>eXeLearning completado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>eXeLearning completado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>eXeLearning completado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvxlk61-mbr5bpwgh</odePageId>
+      <odeBlockId>block-1776006949154-zgpjdagsc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvxlk61-mbr5bpwgh</odePageId>
+          <odeBlockId>block-1776006949154-zgpjdagsc</odeBlockId>
+          <odeIdeviceId>idevice-1776006949152-c6v3m4uru</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvxlk63-qzse7jw3w</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>1. Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvxlk63-qzse7jw3w</odePageId>
+      <odeBlockId>block-1775982028511-g45thbpm4</odeBlockId>
+      <blockName>1. Inicio</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvxlk63-qzse7jw3w</odePageId>
+          <odeBlockId>block-1775982028511-g45thbpm4</odeBlockId>
+          <odeIdeviceId>idevice-1775982028510-zvbpzh5gv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>6 sesiones</dd></div><div class="inline"><dt><span title="Participantes">Participantes</span></dt><dd>Alumnado Educación Primaria</dd></div></dl><h1>Detectives digitales</h1>
+<p><br />En este proyecto, el alumnado se convierte en detective para investigar, buscar y seleccionar información relevante. A lo largo de las actividades, aprenderá a organizar sus ideas y a crear una infografía digital que posteriormente presentará en clase.</p>
+<p><img src="{{context_path}}/content/resources/Inicio.png" width="1229" height="819" alt="Inicio" /><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775982028510-zvbpzh5gv","textInfoDurationInput":"6 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Alumnado Educación Primaria","textInfoParticipantsTextInput":"Participantes","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>6 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Participantes\">Participantes</span></dt><dd>Alumnado Educación Primaria</dd></div></dl><h1>Detectives digitales</h1>\n<p><br />En este proyecto, el alumnado se convierte en detective para investigar, buscar y seleccionar información relevante. A lo largo de las actividades, aprenderá a organizar sus ideas y a crear una infografía digital que posteriormente presentará en clase.</p>\n<p><img src=\"{{context_path}}/content/resources/Inicio.png\" width=\"1229\" height=\"819\" alt=\"Inicio\" /><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvxlk64-sxs2nwymz</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>2. Descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvxlk64-sxs2nwymz</odePageId>
+      <odeBlockId>block-1775980060599-fn6xib7nb</odeBlockId>
+      <blockName>Descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvxlk64-sxs2nwymz</odePageId>
+          <odeBlockId>block-1775980060599-fn6xib7nb</odeBlockId>
+          <odeIdeviceId>idevice-1775980060594-o1bjg8t2a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>6 sesiones</dd></div><div class="inline"><dt><span title="Participantes">Participantes</span></dt><dd>Alumnado de Educación Primaria</dd></div></dl><h1>Descripción del proyecto</h1>
+<p><br /></p>
+<p>Este proyecto, llamado “Detectives digitales”, está pensado para alumnado de Educación Primaria dentro del área de Lengua Castellana y Literatura.</p>
+<p>La idea es que aprendan a buscar información, elegir lo más importante y organizarla de forma clara, mientras usan herramientas digitales de manera sencilla.</p>
+<p>A lo largo del proyecto, se pondrán en el papel de detectives que investigan distintos temas. Con todo lo que encuentren, elaborarán una infografía en la que recogerán la información más relevante.</p>
+<p>Para terminar, presentarán su trabajo en clase, compartiendo lo que han aprendido con sus compañeros y mejorando su forma de expresarse.</p>
+<p><img src="{{context_path}}/content/resources/Descripción del proyecto.png" width="1536" height="1024" alt="Descripción del Proyecto" /></p>
+<p>El alumnado investiga y descubre información utilizando herramientas digitales como auténticos detectives.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775980060594-o1bjg8t2a","textInfoDurationInput":"6 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Alumnado de Educación Primaria","textInfoParticipantsTextInput":"Participantes","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>6 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Participantes\">Participantes</span></dt><dd>Alumnado de Educación Primaria</dd></div></dl><h1>Descripción del proyecto</h1>\n<p><br /></p>\n<p>Este proyecto, llamado “Detectives digitales”, está pensado para alumnado de Educación Primaria dentro del área de Lengua Castellana y Literatura.</p>\n<p>La idea es que aprendan a buscar información, elegir lo más importante y organizarla de forma clara, mientras usan herramientas digitales de manera sencilla.</p>\n<p>A lo largo del proyecto, se pondrán en el papel de detectives que investigan distintos temas. Con todo lo que encuentren, elaborarán una infografía en la que recogerán la información más relevante.</p>\n<p>Para terminar, presentarán su trabajo en clase, compartiendo lo que han aprendido con sus compañeros y mejorando su forma de expresarse.</p>\n<p><img src=\"{{context_path}}/content/resources/Descripción del proyecto.png\" width=\"1536\" height=\"1024\" alt=\"Descripción del Proyecto\" /></p>\n<p>El alumnado investiga y descubre información utilizando herramientas digitales como auténticos detectives.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvxlk65-gqdmxoatu</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>3. Tareas del alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Tareas del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Tareas del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvxlk65-gqdmxoatu</odePageId>
+      <odeBlockId>block-1775982419638-qfc4zsm9n</odeBlockId>
+      <blockName>Tareas del alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvxlk65-gqdmxoatu</odePageId>
+          <odeBlockId>block-1775982419638-qfc4zsm9n</odeBlockId>
+          <odeIdeviceId>idevice-1775982419636-lu4hstaub</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>6 sesiones</dd></div><div class="inline"><dt><span title="Participantes">Participantes</span></dt><dd>Educación Primaria</dd></div></dl><h1>Tareas del alumnado </h1>
+<p><br /></p>
+<p>A lo largo de este proyecto, el alumnado realizará una serie de actividades para investigar y crear su propia infografía digital.</p>
+<p>En primer lugar, conocerán el proyecto y lo que van a aprender mediante una explicación inicial en clase.</p>
+<p>Después, buscarán información en internet de forma guiada, aprendiendo a seleccionar los datos más importantes.</p>
+<p>A continuación, organizarán la información recogida para darle sentido y prepararla antes de crear su trabajo final.</p>
+<p>Seguidamente, elaborarán una infografía digital utilizando herramientas como Canva, donde recogerán la información de forma visual y clara.</p>
+<p>Por último, presentarán su trabajo en clase, explicando lo que han aprendido y compartiéndolo con sus compañeros y compañeras.</p>
+<p><img src="{{context_path}}/content/resources/Tareas del alumnado.png" width="1011" height="674" alt="Tareas del alumnado" /></p>
+<p><br /></p>
+<p>El alumnado trabaja en equipo, investiga y crea su propio contenido digital</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775982419636-lu4hstaub","textInfoDurationInput":"6 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Educación Primaria","textInfoParticipantsTextInput":"Participantes","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>6 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Participantes\">Participantes</span></dt><dd>Educación Primaria</dd></div></dl><h1>Tareas del alumnado </h1>\n<p><br /></p>\n<p>A lo largo de este proyecto, el alumnado realizará una serie de actividades para investigar y crear su propia infografía digital.</p>\n<p>En primer lugar, conocerán el proyecto y lo que van a aprender mediante una explicación inicial en clase.</p>\n<p>Después, buscarán información en internet de forma guiada, aprendiendo a seleccionar los datos más importantes.</p>\n<p>A continuación, organizarán la información recogida para darle sentido y prepararla antes de crear su trabajo final.</p>\n<p>Seguidamente, elaborarán una infografía digital utilizando herramientas como Canva, donde recogerán la información de forma visual y clara.</p>\n<p>Por último, presentarán su trabajo en clase, explicando lo que han aprendido y compartiéndolo con sus compañeros y compañeras.</p>\n<p><img src=\"{{context_path}}/content/resources/Tareas del alumnado.png\" width=\"1011\" height=\"674\" alt=\"Tareas del alumnado\" /></p>\n<p><br /></p>\n<p>El alumnado trabaja en equipo, investiga y crea su propio contenido digital</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvxlk65-05hy3tnq7</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>4. Organización del Proyecto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Organización del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Organización del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvxlk65-05hy3tnq7</odePageId>
+      <odeBlockId>block-1775983613281-z3jtmq83m</odeBlockId>
+      <blockName>Organización del Proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvxlk65-05hy3tnq7</odePageId>
+          <odeBlockId>block-1775983613281-z3jtmq83m</odeBlockId>
+          <odeIdeviceId>idevice-1775983613278-e7dzx8trh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>6 sesiones</dd></div><div class="inline"><dt><span title="Participantes">Participantes</span></dt><dd>Alumnado de Educación Primaria</dd></div></dl><h1>Organización del proyecto</h1>
+<p><br /></p>
+<p>El proyecto se desarrolla a lo largo de varias sesiones en las que el alumnado realiza diferentes actividades de forma progresiva.</p>
+<p>En cada sesión se combinan distintos tipos de agrupamiento, como el trabajo individual, en parejas y en grupo clase, favoreciendo la participación y la colaboración.</p>
+<p>Además, se utilizan diferentes espacios y recursos, como el aula, el aula de informática y herramientas digitales como el ordenador o Canva.</p>
+<p>A continuación, se muestra la organización de las sesiones del proyecto.</p>
+<p><img src="{{context_path}}/content/resources/Linea temporal (Modulo 7).png" width="1029" height="693" alt="Línea Temporal" /><br /></p>
+<p>Esta línea temporal muestra de forma clara las actividades que se realizarán en cada sesión, así como los agrupamientos, los recursos y los espacios utilizados.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775983613278-e7dzx8trh","textInfoDurationInput":"6 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Alumnado de Educación Primaria","textInfoParticipantsTextInput":"Participantes","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>6 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Participantes\">Participantes</span></dt><dd>Alumnado de Educación Primaria</dd></div></dl><h1>Organización del proyecto</h1>\n<p><br /></p>\n<p>El proyecto se desarrolla a lo largo de varias sesiones en las que el alumnado realiza diferentes actividades de forma progresiva.</p>\n<p>En cada sesión se combinan distintos tipos de agrupamiento, como el trabajo individual, en parejas y en grupo clase, favoreciendo la participación y la colaboración.</p>\n<p>Además, se utilizan diferentes espacios y recursos, como el aula, el aula de informática y herramientas digitales como el ordenador o Canva.</p>\n<p>A continuación, se muestra la organización de las sesiones del proyecto.</p>\n<p><img src=\"{{context_path}}/content/resources/Linea temporal (Modulo 7).png\" width=\"1029\" height=\"693\" alt=\"Línea Temporal\" /><br /></p>\n<p>Esta línea temporal muestra de forma clara las actividades que se realizarán en cada sesión, así como los agrupamientos, los recursos y los espacios utilizados.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnvxlk66-4rnqlmk35</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>5. Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnvxlk66-4rnqlmk35</odePageId>
+      <odeBlockId>block-1775984406703-vtgt8p9p7</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnvxlk66-4rnqlmk35</odePageId>
+          <odeBlockId>block-1775984406703-vtgt8p9p7</odeBlockId>
+          <odeIdeviceId>idevice-1775984406702-0jn5tl2a9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>6 sesiones</dd></div><div class="inline"><dt><span title="Participantes">Participantes</span></dt><dd>Alumnado de Educación Primaria</dd></div></dl><h1>Evaluación</h1>
+<p><br />La evaluación del proyecto será continua y formativa, permitiendo conocer el progreso del alumnado a lo largo de todas las actividades.</p>
+<p>Para ello, se utilizarán diferentes instrumentos de evaluación adaptados al nivel de Educación Primaria.</p>
+<p>En primer lugar, el alumnado realizará una autoevaluación mediante una ficha visual en la que valorará su trabajo, su esfuerzo y su aprendizaje.</p>
+<p>Además, el docente evaluará el proceso y el producto final mediante una rúbrica, teniendo en cuenta aspectos como la búsqueda de información, la organización de ideas, la elaboración de la infografía y la exposición oral.</p>
+<p>De este modo, se tendrá en cuenta tanto el proceso de aprendizaje como el resultado final del trabajo</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Diana de autoevaluación.png" width="576" height="815" alt="Diana autoevaluación" /></p>
+<p><br /></p>
+<p>El alumnado reflexiona sobre su propio aprendizaje a través de una autoevaluación sencilla y visual.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Rúbrica.png" width="1536" height="1024" alt="Rúbrica" /></p>
+<p>El docente utiliza una rúbrica para evaluar tanto el proceso de trabajo como el producto final.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775984406702-0jn5tl2a9","textInfoDurationInput":"6 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Alumnado de Educación Primaria","textInfoParticipantsTextInput":"Participantes","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>6 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Participantes\">Participantes</span></dt><dd>Alumnado de Educación Primaria</dd></div></dl><h1>Evaluación</h1>\n<p><br />La evaluación del proyecto será continua y formativa, permitiendo conocer el progreso del alumnado a lo largo de todas las actividades.</p>\n<p>Para ello, se utilizarán diferentes instrumentos de evaluación adaptados al nivel de Educación Primaria.</p>\n<p>En primer lugar, el alumnado realizará una autoevaluación mediante una ficha visual en la que valorará su trabajo, su esfuerzo y su aprendizaje.</p>\n<p>Además, el docente evaluará el proceso y el producto final mediante una rúbrica, teniendo en cuenta aspectos como la búsqueda de información, la organización de ideas, la elaboración de la infografía y la exposición oral.</p>\n<p>De este modo, se tendrá en cuenta tanto el proceso de aprendizaje como el resultado final del trabajo</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Diana de autoevaluación.png\" width=\"576\" height=\"815\" alt=\"Diana autoevaluación\" /></p>\n<p><br /></p>\n<p>El alumnado reflexiona sobre su propio aprendizaje a través de una autoevaluación sencilla y visual.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Rúbrica.png\" width=\"1536\" height=\"1024\" alt=\"Rúbrica\" /></p>\n<p>El docente utiliza una rúbrica para evaluar tanto el proceso de trabajo como el producto final.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776008522610-ga1myu8op</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>6. Uso seguro de internet</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Uso seguro de internet</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776008522610-ga1myu8op</odePageId>
+      <odeBlockId>block-1776008550113-il1tibrb6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776008522610-ga1myu8op</odePageId>
+          <odeBlockId>block-1776008550113-il1tibrb6</odeBlockId>
+          <odeIdeviceId>idevice-1776008550110-gyp48izi2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Uso seguro de internet</h1>
+<p>Antes de utilizar internet y las herramientas digitales, es importante conocer algunas normas básicas para hacerlo de forma segura.</p>
+<p>No se debe compartir datos personales como  nombre completo, dirección, teléfono o contraseñas.</p>
+<p>También es importante respetar a los demás cuando usamos internet y hacer un buen uso de la información que encontramos.</p>
+<p>Si encontramos algo que no entendemos o que nos hace sentir incómodos, debemos avisar al profesor o profesora.</p>
+<p>De esta forma, aprendemos a usar internet de manera responsable y segura.</p>
+<p><img src="{{context_path}}/content/resources/internet seguro.png" width="1536" height="1024" alt="" /></p>
+<p>Usar internet de forma segura les ayuda a protegerse y a respetar a los demás.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776008550110-gyp48izi2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Uso seguro de internet</h1>\n<p>Antes de utilizar internet y las herramientas digitales, es importante conocer algunas normas básicas para hacerlo de forma segura.</p>\n<p>No se debe compartir datos personales como  nombre completo, dirección, teléfono o contraseñas.</p>\n<p>También es importante respetar a los demás cuando usamos internet y hacer un buen uso de la información que encontramos.</p>\n<p>Si encontramos algo que no entendemos o que nos hace sentir incómodos, debemos avisar al profesor o profesora.</p>\n<p>De esta forma, aprendemos a usar internet de manera responsable y segura.</p>\n<p><img src=\"{{context_path}}/content/resources/internet seguro.png\" width=\"1536\" height=\"1024\" alt=\"\" /></p>\n<p>Usar internet de forma segura les ayuda a protegerse y a respetar a los demás.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776008950648-jnezzlys4</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>7. Producto final</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776008950648-jnezzlys4</odePageId>
+      <odeBlockId>block-1776008955086-luugy312q</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776008950648-jnezzlys4</odePageId>
+          <odeBlockId>block-1776008955086-luugy312q</odeBlockId>
+          <odeIdeviceId>idevice-1776008955085-wszukl8x3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>2 sesiones</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Alumnado de Educación Primaria</dd></div></dl><h1>Producto final</h1>
+<p>El producto final de este proyecto es la creación de una infografía digital.<br />En ella, el alumnado recogerá la información más importante que ha investigado, organizándola de forma clara y visual.</p>
+<p>La infografía debe incluir un título, imágenes o iconos y textos breves que ayuden a entender la información.</p>
+<p>Para crearla, utilizarán herramientas digitales como Canva, que permiten diseñar contenidos de forma sencilla.</p>
+<p>Una vez terminada, el alumnado presentará su trabajo en clase, explicando lo que ha aprendido.</p>
+<h1><img src="{{context_path}}/content/resources/Producto final.png" width="1536" height="1024" alt="" /></h1>
+<p>El alumnado crea una infografía digital para presentar la información de forma clara y visual.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776008955085-wszukl8x3","textInfoDurationInput":"2 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Alumnado de Educación Primaria","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>2 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Alumnado de Educación Primaria</dd></div></dl><h1>Producto final</h1>\n<p>El producto final de este proyecto es la creación de una infografía digital.<br />En ella, el alumnado recogerá la información más importante que ha investigado, organizándola de forma clara y visual.</p>\n<p>La infografía debe incluir un título, imágenes o iconos y textos breves que ayuden a entender la información.</p>\n<p>Para crearla, utilizarán herramientas digitales como Canva, que permiten diseñar contenidos de forma sencilla.</p>\n<p>Una vez terminada, el alumnado presentará su trabajo en clase, explicando lo que ha aprendido.</p>\n<h1><img src=\"{{context_path}}/content/resources/Producto final.png\" width=\"1536\" height=\"1024\" alt=\"\" /></h1>\n<p>El alumnado crea una infografía digital para presentar la información de forma clara y visual.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776009961741-ctshz67u4</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>8. Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776009961741-ctshz67u4</odePageId>
+      <odeBlockId>block-1776009973202-kxq4yakfl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776009961741-ctshz67u4</odePageId>
+          <odeBlockId>block-1776009973202-kxq4yakfl</odeBlockId>
+          <odeIdeviceId>idevice-1776009973200-x2mbwj5uq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>A lo largo de todo el proyecto</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Alumnado de Educación Primaria</dd></div></dl><h1>Recursos para el alumnado</h1>
+<p>Para realizar este proyecto, el alumnado contará con una serie de recursos digitales que le ayudarán a buscar información y elaborar la infografía.</p>
+<p>A través del siguiente enlace, podrán acceder a diferentes páginas web, vídeos e información seleccionada previamente para facilitar su trabajo.<br />Han sido elegidos para que sean adecuados, seguros y fáciles de comprender.</p>
+<p>Accede aquí a los recursos:</p>
+<p><a href="https://wakelet.com/wake/0Hes4dDeeFt7IMff2u33C  https://padlet.com/maestroarturoprimaria/recursos-para-crear-una-infograf-a-t9vs3t2nmyz0vb0e" title=""> https://</a><a href="https://wakelet.com/wake/0Hes4dDeeFt7IMff2u33C  https://padlet.com/maestroarturoprimaria/recursos-para-crear-una-infograf-a-t9vs3t2nmyz0vb0e" title="">padlet.com/maestroarturoprimaria/recursos-para-crear-una-infograf-a-t9vs3t2nmyz0vb0e</a></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776009973200-x2mbwj5uq","textInfoDurationInput":"A lo largo de todo el proyecto","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Alumnado de Educación Primaria","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>A lo largo de todo el proyecto</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Alumnado de Educación Primaria</dd></div></dl><h1>Recursos para el alumnado</h1>\n<p>Para realizar este proyecto, el alumnado contará con una serie de recursos digitales que le ayudarán a buscar información y elaborar la infografía.</p>\n<p>A través del siguiente enlace, podrán acceder a diferentes páginas web, vídeos e información seleccionada previamente para facilitar su trabajo.<br />Han sido elegidos para que sean adecuados, seguros y fáciles de comprender.</p>\n<p>Accede aquí a los recursos:</p>\n<p><a href=\"https://wakelet.com/wake/0Hes4dDeeFt7IMff2u33C  https://padlet.com/maestroarturoprimaria/recursos-para-crear-una-infograf-a-t9vs3t2nmyz0vb0e\" title=\"\"> https://</a><a href=\"https://wakelet.com/wake/0Hes4dDeeFt7IMff2u33C  https://padlet.com/maestroarturoprimaria/recursos-para-crear-una-infograf-a-t9vs3t2nmyz0vb0e\" title=\"\">padlet.com/maestroarturoprimaria/recursos-para-crear-una-infograf-a-t9vs3t2nmyz0vb0e</a></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776011000103-f3i0tkaph</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>9. Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776011000103-f3i0tkaph</odePageId>
+      <odeBlockId>block-1776011013474-dqw9q00zr</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776011000103-f3i0tkaph</odePageId>
+          <odeBlockId>block-1776011013474-dqw9q00zr</odeBlockId>
+          <odeIdeviceId>idevice-1776011013472-5irwo9lu6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>A lo largo de todo el proyecto</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Profesorado</dd></div></dl><h1>Recursos del profesorado</h1>
+<p>Para el desarrollo de este proyecto, el profesorado dispone de una selección de recursos digitales que le ayudarán a buscar información y elaborar su infografía.</p>
+<p>A través del siguiente enlace, podrán acceder a diferentes páginas web, vídeos e información seleccionada previamente para facilitar su trabajo.</p>
+<p>Estos recursos han sido elegidos para que sean adecuados, seguros y fáciles de comprender.</p>
+<p>Accede aquí a los recursos:</p>
+<p><a href="https://wakelet.com/wake/0Hes4dDeeFt7IMff2u33C" title="">https://wakelet.com/wake/0Hes4dDeeFt7IMff2u33C</a></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776011013472-5irwo9lu6","textInfoDurationInput":"A lo largo de todo el proyecto","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Profesorado","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>A lo largo de todo el proyecto</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Profesorado</dd></div></dl><h1>Recursos del profesorado</h1>\n<p>Para el desarrollo de este proyecto, el profesorado dispone de una selección de recursos digitales que le ayudarán a buscar información y elaborar su infografía.</p>\n<p>A través del siguiente enlace, podrán acceder a diferentes páginas web, vídeos e información seleccionada previamente para facilitar su trabajo.</p>\n<p>Estos recursos han sido elegidos para que sean adecuados, seguros y fáciles de comprender.</p>\n<p>Accede aquí a los recursos:</p>\n<p><a href=\"https://wakelet.com/wake/0Hes4dDeeFt7IMff2u33C\" title=\"\">https://wakelet.com/wake/0Hes4dDeeFt7IMff2u33C</a></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776013425145-kmw52esgn</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>10. Guía didáctica </pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. Guía didáctica </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776013425145-kmw52esgn</odePageId>
+      <odeBlockId>block-1776013431996-if58j0ksd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776013425145-kmw52esgn</odePageId>
+          <odeBlockId>block-1776013431996-if58j0ksd</odeBlockId>
+          <odeIdeviceId>idevice-1776013431993-6ctu00kbz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>6 sesiones</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Profesorado</dd></div></dl><h1>Guía didáctica </h1>
+<p>Esta guía didáctica recoge la relación entre las tareas del proyecto y los criterios de evaluación del área de Lengua Castellana y Literatura en Educación Primaria.</p>
+<p>Su objetivo es facilitar la aplicación dl proyecto en el aula y servir de apoyo al profesorado durante todo el proceso.</p>
+<p><img src="{{context_path}}/content/resources/cap 1.png" width="1113" height="787" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/cap 2.png" width="1110" height="782" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/cap 3.png" width="1118" height="785" alt="" /></p>
+<p>Esta relación entre las tareas y los criterios de evaluación permite valorar d forma coherente el aprendizaje del alumnado, teniendo en cuentatanto el proceso como el resultado final del proyecto.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776013431993-6ctu00kbz","textInfoDurationInput":"6 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Profesorado","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>6 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Profesorado</dd></div></dl><h1>Guía didáctica </h1>\n<p>Esta guía didáctica recoge la relación entre las tareas del proyecto y los criterios de evaluación del área de Lengua Castellana y Literatura en Educación Primaria.</p>\n<p>Su objetivo es facilitar la aplicación dl proyecto en el aula y servir de apoyo al profesorado durante todo el proceso.</p>\n<p><img src=\"{{context_path}}/content/resources/cap 1.png\" width=\"1113\" height=\"787\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/cap 2.png\" width=\"1110\" height=\"782\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/cap 3.png\" width=\"1118\" height=\"785\" alt=\"\" /></p>\n<p>Esta relación entre las tareas y los criterios de evaluación permite valorar d forma coherente el aprendizaje del alumnado, teniendo en cuentatanto el proceso como el resultado final del proyecto.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776014739353-qf6wvm3ml</odePageId>
+  <odeParentPageId>page-mnvxlk61-mbr5bpwgh</odeParentPageId>
+  <pageName>11. Créditos</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>11. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776014739353-qf6wvm3ml</odePageId>
+      <odeBlockId>block-1776014743180-d2zbwez35</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776014739353-qf6wvm3ml</odePageId>
+          <odeBlockId>block-1776014743180-d2zbwez35</odeBlockId>
+          <odeIdeviceId>idevice-1776014743179-0ecnelj15</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Créditos</h1>
+<p><strong>Autor: </strong>Arturo Martín García</p>
+<p><strong>Título del proyecto: </strong>Detectives digitales</p>
+<p><strong>Descripción: </strong></p>
+<p>Este proyecto educativo está dirigido al alumnado de Educación Primaria y tiene como objetivo desarrollar la competencia lingüística y digital a través de la creación de una infografía digital.</p>
+<p><strong>Licencia: </strong></p>
+<p>Este recurso se comparte bajo licencia Creative Commons, permitiendo su uso y adaptación con fines educativos.</p>
+<p>-Imágenes creadas con herramientas digitales por Arturo Martín García.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776014743179-0ecnelj15","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Créditos</h1>\n<p><strong>Autor: </strong>Arturo Martín García</p>\n<p><strong>Título del proyecto: </strong>Detectives digitales</p>\n<p><strong>Descripción: </strong></p>\n<p>Este proyecto educativo está dirigido al alumnado de Educación Primaria y tiene como objetivo desarrollar la competencia lingüística y digital a través de la creación de una infografía digital.</p>\n<p><strong>Licencia: </strong></p>\n<p>Este recurso se comparte bajo licencia Creative Commons, permitiendo su uso y adaptación con fines educativos.</p>\n<p>-Imágenes creadas con herramientas digitales por Arturo Martín García.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
